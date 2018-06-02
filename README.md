@@ -1,5 +1,7 @@
 # less-app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stealjs/less-bug-build-windows.svg)](https://greenkeeper.io/)
+
 Welcome to the less-app DoneJS application!
 
 ## Getting started
